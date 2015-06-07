@@ -7,4 +7,4 @@
 ### Run The Code
 - After you unzip the project, open the folder named `movie_trailers`.
 - Open the file named `entertainment_center.py` in a Python IDE and run it.
-- You can also accomplish this with the command line. Just run `cd movie_trailers` and then run `python entertainment_center.py`. This will run the program and open the movie trailer website in a browser.
+- You can also run the program from the command line. Just run `cd movie_trailers` and then run `python entertainment_center.py`. This will execute the program and open the movie trailer website in a browser.
